@@ -2,3 +2,4 @@ python-telegram-bot==22.0
 transformers
 torch
 huggingface-hub
+nest_asyncio
